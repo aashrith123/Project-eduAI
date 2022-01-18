@@ -1,0 +1,104 @@
+/* title section */
+/* h1{
+  font-family: 'Kufam', sans-serif;
+  font-size: 4rem;
+  line-height: 1.5;
+} */
+#heading{
+  font-family: 'Kufam', sans-serif;
+  font-size: 4rem;
+  line-height: 1.5;
+  padding-left: 10px;
+}
+
+.title{
+    margin-top: 0;
+    padding-top: 10%;
+}
+
+/* .title-image{
+  height: 500px;
+  width: 700px;
+  margin-right: 20px;
+  margin-right: 10%;
+  padding-bottom: 5%;
+} */
+
+.title-image{
+  width: 100%;
+}
+
+.description{
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 300;
+  font-size: medium;
+  margin-top: 10%;
+}
+
+/* nav-bar */
+
+
+.navbar{
+  padding-bottom: 4.5rem;
+}
+
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-size: 1.2rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+}
+
+/* features */
+
+#features{
+  background-color: #A8D8EA;
+}
+
+@media (max-width: 570px) {
+
+  #heading{
+    text-align: center;
+  }
+
+  .about-us{
+    text-align: center;
+  }
+}
+
+/* Download */
+#download{
+  text-align: center;
+}
+
+.download-heading{
+  font-family: 'Kufam', sans-serif;
+  font-size: 2.5rem;
+  padding-top: 7%;
+  padding-bottom: 5%;
+}
+
+.btn1{
+  margin-bottom: 5%;
+}
+
+/* ContactUs */
+
+#contact-us{
+    background-color: #A8D8EA;
+    text-align: center;
+    padding: 5% 15%;
+}
+
+.footer-icon{
+  margin: 20px 10px;
+}
